@@ -1,6 +1,6 @@
 # Tic Tac Toe (Java)
 
-A simple console-based Tic Tac Toe game built using Java while learning programming fundamentals.
+A JavaFX Tic-Tac-Toe game built in Java, featuring interactive gameplay, win detection, turn management, and restart functionality.
 
 ## Features
 - Two-player gameplay
