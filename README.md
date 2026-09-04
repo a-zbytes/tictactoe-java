@@ -2,6 +2,8 @@
 
 A JavaFX Tic-Tac-Toe game built in Java, featuring interactive gameplay, win detection, turn management, and restart functionality.
 
+![Tic-Tac-Toe](screenshots/tic-tac-toe.png)
+
 ## Features
 - Two-player gameplay
 - Win and draw detection
